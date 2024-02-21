@@ -10,3 +10,7 @@ INFO: This is an INFO level log message
 FINE: This is log message
 февр. 21, 2024 10:00:49 AM log.LogExample main
 INFO: This INFO log message
+февр. 21, 2024 10:56:38 AM log.LogExample main
+FINE: This is log message
+февр. 21, 2024 10:56:38 AM log.LogExample main
+INFO: This INFO log message
