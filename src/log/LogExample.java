@@ -11,7 +11,7 @@ public class LogExample {
             Logger logger = Logger.getLogger(LogExample.class.getName());
 
             FileHandler fileHandler = new FileHandler("example.log", true);
-            fileHandler.setFormatter(new SimpleFormatter()); // Set a simple text formatter
+            fileHandler.setFormatter(new SimpleFormatter());
 
             logger.addHandler(fileHandler);
             logger.setLevel(Level.FINE);
